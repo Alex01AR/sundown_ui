@@ -13,8 +13,13 @@ function myFunction(x) {
 
     else if(x < 900 || x > 700  ) {
         // page4media405();
+<<<<<<< HEAD
         page4Animation();
 
+=======
+ page4Animation();
+   
+>>>>>>> 2799a59f7796b5c7268f2a721fe17670467cec90
         var swiper = new Swiper(".mySwiper", {
             slidesPerView: 3,
             spaceBetween: 30,
@@ -23,8 +28,13 @@ function myFunction(x) {
     }
     else if(x < 700 || x > 500) {
         // page4media405();
+<<<<<<< HEAD
         page4Animation();
 
+=======
+ page4Animation();
+   
+>>>>>>> 2799a59f7796b5c7268f2a721fe17670467cec90
         var swiper = new Swiper(".mySwiper", {
             slidesPerView: 2,
             spaceBetween: 35,
@@ -39,8 +49,7 @@ function myFunction(x) {
     
     });
     
-    page4Animation();
-   
+   c
   }
 }
 
