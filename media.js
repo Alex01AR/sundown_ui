@@ -12,17 +12,19 @@ function myFunction(x) {
 }
 
     else if(x < 900 || x > 700  ) {
-        page4media405();
-
+        // page4media405();
+ page4Animation();
+   
         var swiper = new Swiper(".mySwiper", {
-            slidesPerView: 2.5,
+            slidesPerView: 3,
             spaceBetween: 30,
         
         });
     }
     else if(x < 700 || x > 500) {
-        page4media405();
-
+        // page4media405();
+ page4Animation();
+   
         var swiper = new Swiper(".mySwiper", {
             slidesPerView: 2,
             spaceBetween: 35,
@@ -37,8 +39,7 @@ function myFunction(x) {
     
     });
     
-    page4Animation();
-   
+   c
   }
 }
 
