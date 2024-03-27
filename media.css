@@ -1,0 +1,57 @@
+@media only screen and (max-width: 1100px){
+
+    #pad{
+        padding-left: 5vh;
+    }
+    #exlfbx h1{
+        font-size: 6vw;
+        line-height: 6vw;
+    }
+    #page3{
+        min-height: fit-content;
+    }
+    #page2{
+        min-height: fit-content;
+    }
+    #page2-bottom h1{
+        width: 50%;
+        top: 10;
+        position: relative;
+    
+    }
+    #bottom2 {
+       top: 25%;
+       position: relative;
+    }
+    #bottom2 img{
+        width: 28vw;
+    }
+    #bottom2 p{
+        width: 28vw;
+    }
+    #exlfbx{
+        width: 50%;
+    }
+    #exlfbx p{
+        width: 80%;
+        top: 20%;
+    }
+    #exlfbx h1{
+        top: 15%;
+    }
+    .elem h2{
+        padding: 2vw 4vw;
+    }
+    #page3-c1{
+        padding-left: 4vw;
+    }
+    #page2-bottom{
+        min-height: fit-content;
+    }
+
+    }
+    
+    
+    @media only screen and (max-width: 768px) {
+       
+      }
